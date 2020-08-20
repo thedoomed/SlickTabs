@@ -12,7 +12,7 @@ namespace Example
         private void Form1_Load(object sender, EventArgs e)
         {
             scriptTabs = new SlickTabControl(this); // set its parent to 'this' (our form)
-            scriptTabs.SetPosition(0, 40); // Position for it on the form
+            scriptTabs.SetPosition(0, 40); // Position it on the form
             
             // Add(Title, Content(string))
             scriptTabs.Add("Untitled", "print(\"Hello, world\")");
