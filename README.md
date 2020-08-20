@@ -10,6 +10,6 @@ This sets up a VERY minimalistic, basic tab structure which is fully customizabl
 
 # Showcase
 
-https://i.imgur.com/QJ0qV0K.jpg
-https://i.imgur.com/3gLCExE.jpg
-https://i.imgur.com/AVviyJJ.jpg
+![Example](https://i.imgur.com/QJ0qV0K.jpg)
+![Example](https://i.imgur.com/3gLCExE.jpg)
+![Example](https://i.imgur.com/AVviyJJ.jpg)
